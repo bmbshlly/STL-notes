@@ -1,4 +1,4 @@
-#include<stdc++.h>
+#include<bits/stdc++.h>
 
 #define for(i,b,a) for(int i = b; i <= a; ++i)
 

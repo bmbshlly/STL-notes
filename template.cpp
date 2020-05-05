@@ -7,6 +7,7 @@
 using namespace std;
 
 int main() {
+    FIO
     
     return 0;
 }
